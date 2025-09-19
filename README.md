@@ -95,5 +95,3 @@ This project is released under the MIT License.
 Feel free to use and modify it responsibly.
 
 ---
-
-Would you like me to also include a **section showing how to run this inside Ubuntu (Linux) terminal with `wget` alternative commands** for quick testing?
